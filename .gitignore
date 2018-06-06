@@ -1,2 +1,6 @@
-.idea/
 *.js
+.idea/
+/node_modules
+/coverage
+/build
+*.lock
